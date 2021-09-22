@@ -5,3 +5,4 @@ This branch contains only the dist files from the [dapp branch](https://github.c
 
 To upload a file to this branch use the `.vuepress/public` folder on the `dapp` branch.
 # bep20-generator
+# bep20-generator
