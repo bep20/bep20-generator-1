@@ -5,17 +5,17 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
-        <loc>https://crypto-booster.github.io/token-generator/</loc>
+        <loc>https://cryptobooster.xyz/token-generator/</loc>
         <changefreq>weekly</changefreq>
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>https://crypto-booster.github.io/token-generator/create-token/</loc>
+        <loc>https://cryptobooster.xyz/token-generator/create-token/</loc>
         <changefreq>weekly</changefreq>
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>https://crypto-booster.github.io/token-generator/docs/</loc>
+        <loc>https://cryptobooster.xyz/token-generator/docs/</loc>
         <changefreq>weekly</changefreq>
         <priority>1.00</priority>
     </url>
