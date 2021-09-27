@@ -1,4 +1,4 @@
-# BEP20 Token Generator
+BEP20 Token Generator | Create BEP20 Token for FREE ...
 
 bep 20 tokens
 bep20 token generator
